@@ -118,7 +118,7 @@ body {
 }
 
 .container .work {
-      background: url(images/icon-work.svg);
+      background: url(../images/icon-work.svg);
       background-repeat: no-repeat;
       padding: 0;
       padding-top: 30px;
